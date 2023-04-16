@@ -3,6 +3,6 @@ Web-API for [HideAll VPN](https://chrome.google.com/webstore/detail/hideall-vpn-
 
 ## Example
 ```bash
-source hide_all_vpn.sh
+source ./hide_all_vpn.sh
 login "username" "password"
 ```
